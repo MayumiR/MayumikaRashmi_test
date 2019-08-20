@@ -14,7 +14,7 @@ const style = StyleSheet.create({
   },
   validationText: {
     fontSize: 20,
-    color: 'green',
+    color: 'red',
     textAlign: 'center',
   },
 });
